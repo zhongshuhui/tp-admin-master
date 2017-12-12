@@ -112,12 +112,3 @@ TP-admin即基于ThinkPHP5的admin后台管理系统
 - 平台：Github
 - ……
 
-> 在此非常感谢各框架、插件、平台的支持
-
-
-## 交流
-- 问题只接受来自[Github上Issues](https://github.com/Astonep/tp-admin/issues)《源码附截图，并描述清楚
-- 欢迎提出bug、便于我接下来修改
-- 若你还有足够的精力和时间，欢迎你也加入进来
-- 邮箱：imland@outlook.com
-- 微信：imland
